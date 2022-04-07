@@ -1,5 +1,8 @@
-numpy
-imutils
-sklearn
+numpy~=1.22.3
+imutils~=0.5.4
+sklearn~=0.0
 tensorflow
-keras
+keras~=2.8.0
+
+opencv-python~=4.5.5.64
+scikit-learn~=1.0.2
